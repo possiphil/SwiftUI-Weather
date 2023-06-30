@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "open-meteo",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/open-meteo/open-meteo",
+      "state" : {
+        "revision" : "f8881e7548604ef1f30eee807e51994ddd0d7e64",
+        "version" : "0.1.116"
+      }
+    }
+  ],
+  "version" : 2
+}
